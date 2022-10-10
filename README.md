@@ -1,4 +1,13 @@
+**Note**
+
+Forked from https://github.com/Q42/openapi-typescript-validator to
+include support for remote $ref, from this
+[PR](https://github.com/Q42/openapi-typescript-validator/pull/12).
+Migrate to upstream when remote $ref support will be included there.
+
+
 # openapi-typescript-validator
+
 Generate typescript with `ajv >= 8.0.0` validation based on openapi schemas
 
 - [What does this do?](#what-does-this-do)
